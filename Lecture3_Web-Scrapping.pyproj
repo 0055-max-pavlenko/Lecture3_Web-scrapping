@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6e62a625-e387-4cef-b19c-0b30d5841823</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Lecture3_Web_Scrapping.py</StartupFile>
+    <StartupFile>Lecture3_Web_Scrapping_task1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Lecture3_Web_Scrapping.py" />
+    <Compile Include="Lecture3_Web_Scrapping_task1.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
